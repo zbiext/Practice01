@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name1">1KeyLockScreen</string>
+    <string name="app_name">锁屏</string>
+    <string name="explanation">\"注册此组件后才能拥有锁屏功能\"</string>
+</resources>
