@@ -25,3 +25,8 @@
 [Android登陆页面仿拉钩动效，你总会需要它](http://www.jianshu.com/p/64cf1d04ada7)
 
 [github地址](https://github.com/wenzhihao123/Android-loginsmooth-master)
+
+6. AndroidStatusBar
+
+[Android 状态栏的分析和实践](http://www.jianshu.com/p/c11b33cc3dcf)
+[github地址](https://github.com/George-Soros/AndroidStatusbar)
