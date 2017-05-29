@@ -11,4 +11,11 @@
 3. Flux
 
 [AndroidFlux入门-用Flux构建Android平台的HelloWorld应用](http://www.jianshu.com/p/5aa9cbde299f)
+
 [github地址](https://github.com/androidflux/flux)
+
+4. AndroidNewWidgetsDemo 
+
+[Android Design Support Library新控件用法](http://sunjiajia.com/2015/07/02/android-new-widgets-demo/)
+
+[github地址](https://github.com/opengit/AndroidNewWidgetsDemo)

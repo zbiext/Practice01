@@ -1,7 +1,7 @@
 include ':UpDownPullRecyclerLayout'
 include ':1KeyLockScreen'
 include ':Flux'
-//include ':AndroidNewWidgetsDemo'
+include ':AndroidNewWidgetsDemo'
 //include ':LoginSmooth'
 //include ':AndroidStatusBar'
 //include ':BarUtilsTest'
