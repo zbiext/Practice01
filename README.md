@@ -7,3 +7,8 @@
 2. 1KeyLockScreen
 
 自制的一键锁屏
+
+3. Flux
+
+[AndroidFlux入门-用Flux构建Android平台的HelloWorld应用](http://www.jianshu.com/p/5aa9cbde299f)
+[github地址](https://github.com/androidflux/flux)
