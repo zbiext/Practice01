@@ -30,3 +30,7 @@
 
 [Android 状态栏的分析和实践](http://www.jianshu.com/p/c11b33cc3dcf)
 [github地址](https://github.com/George-Soros/AndroidStatusbar)
+
+7. BarUtilsTest
+
+[BarUtils 试用](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/src/main/java/com/blankj/utilcode/util/BarUtils.java)
