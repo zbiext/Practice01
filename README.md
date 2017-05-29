@@ -34,3 +34,8 @@
 7. BarUtilsTest
 
 [BarUtils 试用](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/src/main/java/com/blankj/utilcode/util/BarUtils.java)
+
+8. TranslucentToolbar
+
+[薄荷app的toolbar适配方案](http://stormzhang.com/android/2015/08/16/boohee-toolbar/)
+[github地址](https://github.com/Moearly/BooheeToolbar)

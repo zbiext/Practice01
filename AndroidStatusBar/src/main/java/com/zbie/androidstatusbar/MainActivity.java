@@ -18,6 +18,7 @@ import android.widget.TextView;
  * CSDN:           http://blog.csdn.net/hyxt2015
  * QQ&WX：         1677208059
  * 描述            Android 状态栏的分析和实践 http://www.jianshu.com/p/c11b33cc3dcf
+ *                Android 系统状态栏沉浸式/透明化完整解决方案 http://www.jianshu.com/p/34a8b40b9308 https://github.com/ljgsonx/adaptiveStatusBar
  */
 public class MainActivity extends AppCompatActivity {
 
