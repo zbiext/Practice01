@@ -42,3 +42,6 @@
 
 9. CalendarView (不建议使用，有bug)
 [github地址](https://github.com/mahendramahi/CalendarView)
+
+10. PaletteImageView 图片阴影的控件
+[github地址](https://github.com/DingMouRen/PaletteImageView)
