@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalendarView</string>
+
+    <string name="day_of_week" translatable="false">dayOfWeek</string>
+    <string name="day_of_month_text" translatable="false">dayOfMonthText</string>
+    <string name="day_of_month_container" translatable="false">dayOfMonthContainer</string>
+
+    <!-- weekdays -->
+    <string-array name="weekdays">
+        <item>Mon.</item>
+        <item>Tue.</item>
+        <item>Wed.</item>
+        <item>Thu.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
+        <item>Sun.</item>
+    </string-array>
+</resources>
