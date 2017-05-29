@@ -19,3 +19,9 @@
 [Android Design Support Library新控件用法](http://sunjiajia.com/2015/07/02/android-new-widgets-demo/)
 
 [github地址](https://github.com/opengit/AndroidNewWidgetsDemo)
+
+5. LoginSmooth
+
+[Android登陆页面仿拉钩动效，你总会需要它](http://www.jianshu.com/p/64cf1d04ada7)
+
+[github地址](https://github.com/wenzhihao123/Android-loginsmooth-master)
